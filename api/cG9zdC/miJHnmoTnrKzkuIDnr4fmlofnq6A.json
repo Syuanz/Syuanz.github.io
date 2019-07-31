@@ -1,1 +1,1 @@
-{"title":"我的第一篇文章","date":"2019-07-30T15:57:37.000Z","link":"post/我的第一篇文章","tags":["日常"],"updated":"2019-07-30T16:00:11.000Z","content":"","next":{"title":"Hello World","link":"post/hello-world"},"plink":"http://yoursite.com/post/我的第一篇文章/"}
+{"title":"我的第一篇文章","date":"2019-07-30T15:57:37.000Z","link":"post/我的第一篇文章","tags":["日常"],"updated":"2019-07-30T16:00:11.000Z","content":"","prev":{"title":"文档测试","link":"post/文档测试"},"next":{"title":"Hello World","link":"post/hello-world"},"plink":"https://syuanz.github.io/post/我的第一篇文章/"}
